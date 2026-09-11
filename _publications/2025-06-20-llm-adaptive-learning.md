@@ -9,6 +9,5 @@ venue: 'Under review'
 slidesurl: 'http://yourwebsite.com/files/slides-llm-adaptive-learning.pdf'
 paperurl: 'https://example.com/llm-adaptive-learning'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-llm-adaptive-learning.bib'
-codeurl: 'https://github.com/spschop/llm-adaptive-learning'
 citation: 'John Smith, et al. (2025). "LLM Adaptive Learning." &lt;i&gt;Under review&lt;/i&gt;.'
 ---
